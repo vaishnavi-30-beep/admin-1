@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "877501034467",
+    "firebase_url": "https://vegifresh1-vaish.firebaseio.com",
+    "project_id": "vegifresh1-vaish",
+    "storage_bucket": "vegifresh1-vaish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877501034467:android:6061e5c5398cb7182a7ad6",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877501034467-jl3po97rm2pmghonphov9k24s5uhtebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLuJZwGajFRb7SD9wYG_6A6repBHso08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877501034467-jl3po97rm2pmghonphov9k24s5uhtebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877501034467:android:ddae4ed2acb5dcce2a7ad6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877501034467-ntjtrdlq40fp2hlbi44hcgg2mabjdrdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app1",
+            "certificate_hash": "c219971923654a0b84217274a2609226dfe8f39c"
+          }
+        },
+        {
+          "client_id": "877501034467-jl3po97rm2pmghonphov9k24s5uhtebe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLuJZwGajFRb7SD9wYG_6A6repBHso08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877501034467-jl3po97rm2pmghonphov9k24s5uhtebe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
